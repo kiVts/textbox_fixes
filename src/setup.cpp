@@ -14,8 +14,10 @@ bool setup() {
         mod_status("unavailable: native scrolling text-field contract changed");
         return false;
     }
+    swml4::text_fields::single_line::bindings().log = swlog;
+    swml4::text_fields::detail::bindings().log = swlog;
     swml4::text_fields::single_line::bindings().active = true;
-    swlog("text fields: vertical string properties, horizontal single-line names; font %.0f%%, height %.3f", options.font_scale * 100, options.box_height);
+    swlog("text fields 0.1.7: full-width string, number and expression properties; base/derived single-line and all editable advanced fields; font %.0f%%, height %.3f", options.font_scale * 100, options.box_height);
     mod_status("scrolling text fields (restart after settings changes)");
     return true;
 }
