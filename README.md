@@ -1,5 +1,7 @@
 # Textbox Fixes
 
+[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bX4RzunsxC)
+
 Fixes text boxes where long names become difficult to read, lines disappear, or the cursor goes outside the field.
 
 Display Name and other text properties get a larger box below their label, with word wrapping and vertical scrolling. The box follows your cursor as you type or move through the text. Typing in these boxes also blocks WASD and other editor shortcuts, so you can write without moving the camera or rotating parts.
