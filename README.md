@@ -8,6 +8,9 @@ Vehicle save names stay on one line. The text scrolls horizontally as you move t
 
 Text size and the height of the larger boxes can be changed in the mod's settings. Text defaults to 80% size. Restart the game after changing these settings.
 
+
+It will eventually get merged into one QOL mod with other features.
+
 ## Installing
 
 To use, install [SWML](https://github.com/kiVts/swml), then add `textbox_fixes.zip` from this repository's releases through the loader's **Add mod...** button. Enable **Text Fields** and restart Stormworks.
