@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "settings": [
+    {"id":"font_scale","type":"number","default":0.8,"min":0.65,"max":1.0,"description":"Text size relative to the native font (0.8 = 80%).","restart":true},
+    {"id":"box_height","type":"number","default":0.21,"min":0.125,"max":0.8,"description":"Height of the scrolling text box below each string-property label, in native UI units.","restart":true}
+  ]
+}
