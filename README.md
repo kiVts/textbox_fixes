@@ -13,6 +13,8 @@ Text size and the height of the larger boxes can be changed in the mod's setting
 
 It will eventually get merged into one QOL mod with other features.
 
+This mod is made in compliance of Geometa EULA. Under Section 3 Paragraph 4, `You must not modify, merge, distribute, translate, reverse engineer, decompile, or try to obtain or use source code for the Geometa Services, except for mods as per section 5 or where permitted by applicable law.` In section 5, `You may create and share mods and other content for our games, provided they comply with this Agreement. You own the content you create, including the content created in game, mods created with Geometa tool kits, community websites, etc.`
+
 ## Installing
 
 To use, install [SWML](https://github.com/kiVts/swml), then add `textbox_fixes.zip` from this repository's releases through the loader's **Add mod...** button. Enable **Text Fields** and restart Stormworks.
